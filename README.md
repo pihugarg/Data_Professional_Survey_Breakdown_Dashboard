@@ -132,7 +132,7 @@ The following transformations were performed using Power Query:
 ## 📊 Dashboard Snapshot
 
 ```markdown
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot]("Dashboard.png")
 ```
 
 ---
