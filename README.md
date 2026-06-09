@@ -131,9 +131,8 @@ The following transformations were performed using Power Query:
 
 ## 📊 Dashboard Snapshot
 
-```markdown
-![Dashboard Screenshot]("Dashboard.png")
-```
+
+![Dashboard Screenshot]("https://github.com/pihugarg/Data_Professional_Survey_Breakdown_Dashboard/blob/main/Dashboard.png")
 
 ---
 
